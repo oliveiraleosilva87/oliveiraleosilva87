@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Lead Data Engineer, PSM and PSPO certified!
 ------------------------------------
 
-About me: Lead Data Engineer at Samsung SDS Latin America, Scrum PSM and PSPO certified, with over 08 years of experience working with data engineering, data analytics and team management.
+About me: Lead Data Engineer, Scrum PSM and PSPO certified, with over 08 years of experience working with data engineering, data analytics and team management.
 
 My main specialties are:
   - Build ETL/ELT systems and data pipelines
