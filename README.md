@@ -42,11 +42,11 @@ To use my skills to help companies to understand their data, making better busin
     <a href="https://www.mysql.com/" rel="noreferrer" target="_blank">
       <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
     </a>
-    <a href="https://www.microsoft.com/" rel="noreferrer" target="_blank">
+    <a href="https://www.microsoft.com/windows-server" rel="noreferrer" target="_blank">
       <img src="https://skillicons.dev/icons?i=windows" height="60" alt="windows logo"  />
     </a>
-    <a href="https://www.linux.org/" rel="noreferrer" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+    <a href="https://www.redhat.com/" rel="noreferrer" target="_blank">
+      <img src="https://skillicons.dev/icons?i=redhat" height="60" alt="redhat logo"  />
     </a>
 </p>
 <br>
