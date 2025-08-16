@@ -21,7 +21,7 @@ My main motivations at work is to use my skills to help companies to understand 
 
 *   🌍  I'm based in Florianopolis, Brazil
 *   ✉️  You can contact me at [oliveiraleosilva87@gmail.com](mailto:oliveiraleosilva87@gmail.com) / https://www.linkedin.com/in/oliveiraleosilva87/
-*   🧠  I'm learning Python, Azure, Databricks and everything about data engineering
+*   🧠  I'm learning Python, Azure, Databricks and everything related to data engineering
 *   🤝  I'm open to collaborating on starter data engineering projects
 
 
@@ -29,6 +29,16 @@ My main motivations at work is to use my skills to help companies to understand 
 
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-                    </p>
+    <a href="https://www.python.org/" rel="noreferrer" target="_blank">
+        <img alt="Python" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36"/>
+    </a>
+    <a href="https://www.oracle.com/uk/index.html" rel="noreferrer" target="_blank">
+        <img alt="Oracle" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36"/>
+    </a>
+    <a href="https://www.mysql.com/" rel="noreferrer" target="_blank">
+        <img alt="MySQL" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36"/>
+    </a>
+    <a href="https://www.postgresql.org/" rel="noreferrer" target="_blank">
+        <img alt="PostgreSQL" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36"/>
+</p>
                     
