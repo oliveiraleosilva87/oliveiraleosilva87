@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Lead Data Engineer, PSM and PSPO certified
 ------------------------------------
 
-About me: Lead Data Engineer, Scrum PSM and PSPO certified, with over 08 years of experience working with data engineering, data analytics and team management.
+About me: Lead Data Engineer, Scrum PSM and PSPO certified, with over 10 years of experience working with data engineering, data analytics and team management.
 
 My main specialties are:
   - Build ETL/ELT systems and data pipelines
@@ -19,9 +19,9 @@ My main specialties are:
 My main motivations at work is to use my skills to help companies to understand their data, making better business decisions
 
 
-*   🌍  I'm based in Sao Paulo, Brazil
+*   🌍  I'm based in Florianopolis, Brazil
 *   ✉️  You can contact me at [oliveiraleosilva87@gmail.com](mailto:oliveiraleosilva87@gmail.com) / https://www.linkedin.com/in/oliveiraleosilva87/
-*   🧠  I'm learning GitHub, Python and AWS
+*   🧠  I'm learning Python, Azure, Databricks and everything about data engineering
 *   🤝  I'm open to collaborating on starter data engineering projects
 
 
