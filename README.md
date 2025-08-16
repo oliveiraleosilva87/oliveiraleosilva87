@@ -14,6 +14,16 @@ Lead Data Engineer, Scrum PSM and PSPO certified, with over 10 years of experien
   - Team management
 <br>
 
+### My Certs:
+<p align="left">
+    <a href="https://www.credly.com/badges/296234a3-35d4-448e-b90e-533fd8db436b" rel="noreferrer" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" height="80" alt="pspo logo"  />
+    </a>
+    <a href="https://www.credly.com/earner/earned/badge/25bd057d-e8e5-4d4e-94c6-f9c361f792b2" rel="noreferrer" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" height="80" alt="pspo logo"  />
+    </a>
+</p><br>
+
 ### Main motivations at work: 
 To use my skills to help companies to understand their data, making better business decisions<br><br>
 
