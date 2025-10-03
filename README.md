@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ================================================================================================================================
 
 ### About:
-Lead Data Engineer, Scrum PSM and PSPO certified, with over 10 years of experience working with data engineering, data analytics and team management.<br><br>
+Data and Digital Engineering Lead at Statkraft, Scrum PSM and PSPO certified, with over 10 years of experience working with data engineering, data analytics and team management.<br><br>
 
 ### Main specialties:
   - Build ETL/ELT systems and data pipelines
