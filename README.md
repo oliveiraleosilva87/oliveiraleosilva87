@@ -40,9 +40,6 @@ To use my skills to help companies to understand their data, making better busin
     <a href="https://www.python.org/" rel="noreferrer" target="_blank">
       <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
     </a>
-    <a href="https://www.gitlab.com/" rel="noreferrer" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo"  />
-    </a>
     <a href="https://www.azure.microsoft.com/" rel="noreferrer" target="_blank">
       <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />
     </a>
